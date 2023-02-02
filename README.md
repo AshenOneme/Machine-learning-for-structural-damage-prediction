@@ -11,6 +11,7 @@
 </div>
 
 * ## 数据库结构 (PEER_Dataset) ##
+选取PEER数据库中典型的13个可以影响柱力学性能指标的因素，如下表所示。
 <div align=center>
 <img width="1200" src="https://user-images.githubusercontent.com/98397090/216273407-0a884b95-58c6-4dfe-9fd5-f43090b62141.png"/>
 <img width="1200" src="https://user-images.githubusercontent.com/98397090/216273426-310bd8cc-dea5-4938-83d6-c2529f9da75d.png"/>
