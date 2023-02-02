@@ -20,7 +20,7 @@
 </div>
 
 * ## 特征分析 ##
-基于梯度提升机合并多个决策树可以得到每个特征的重要性。
+基于梯度提升机合并多个决策树可以得到每个特征的重要性，梯度提升机通常使用深度很小的树(1~5之间)，预测速度很快。梯度提升的背后是合并多个简单的模型，比如深度较小的树，每棵树只能对部分数据进行准确预测，因此添加的树越来越多，可以不断提升迭代的性能。
 <table align="center" border="0" style="border-collapse: collapse;">
   <tr>
     <td align=center><img width="600px" src="https://user-images.githubusercontent.com/98397090/216299296-804bb77a-4ea3-4967-9c60-f551cb0ce7ed.png"/></td>
