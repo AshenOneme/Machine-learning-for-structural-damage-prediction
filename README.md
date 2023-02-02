@@ -20,6 +20,7 @@
 </div>
 
 * ## 特征分析 ##
+基于梯度提升机合并多个决策树可以得到每个特征的重要性。
 <table align="center" border="0" style="border-collapse: collapse;">
   <tr>
     <td align=center><img width="600px" src="https://user-images.githubusercontent.com/98397090/216299296-804bb77a-4ea3-4967-9c60-f551cb0ce7ed.png"/></td>
