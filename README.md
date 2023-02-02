@@ -19,13 +19,11 @@
 <img width="1200" src="https://user-images.githubusercontent.com/98397090/216273443-588af748-ff0b-4a0e-9ae7-0944a829d907.png"/>  
 </div>
 
-* ## 相关性矩阵 ##
+* ## 特征分析 ##
 <table align="center" border="0" style="border-collapse: collapse;">
   <tr>
-    <td><img height="600px" src="https://user-images.githubusercontent.com/98397090/216299296-804bb77a-4ea3-4967-9c60-f551cb0ce7ed.png"/></td>
+    <td align=center><img width="600px" src="https://user-images.githubusercontent.com/98397090/216299296-804bb77a-4ea3-4967-9c60-f551cb0ce7ed.png"/></td>
+    <td align=center><img width="600px" src="https://user-images.githubusercontent.com/98397090/216299903-d95c053c-6c42-4b09-bcbe-ae13bcbd7b28.png"/></td>
   </tr>
-  <tr>
-      <td><img height="600px" src="https://user-images.githubusercontent.com/98397090/216299903-d95c053c-6c42-4b09-bcbe-ae13bcbd7b28.png"/></td>
-  </tr>  
 </table>
 
