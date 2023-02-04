@@ -32,3 +32,10 @@
 </table>
 
 * ## XGBoost ##
+<table align="center" border="0" style="border-collapse: collapse;">
+  <tr>
+    <td align=center><img width="600px" src="https://user-images.githubusercontent.com/98397090/216739324-249843e6-a1b9-409b-9e78-01c052e7d22b.png"/></td>
+    <td align=center><img width="600px" src="https://user-images.githubusercontent.com/98397090/216739326-9818755f-1bb8-413a-94b0-39ade7e82718.png"/></td>
+  </tr>
+</table>
+
